@@ -1,5 +1,5 @@
 # Obesity-Disease-Detection-Using-Machine-Learning-Approach
-This project predicts obesity risks using SVM, Random Forest, and XGBoost, with SVM achieving 96.44% accuracy. It features a GUI for real-time data input and predictions, aiming to assist healthcare providers and individuals in early detection and intervention.
+This project focuses on detecting and predicting obesity risks using machine learning techniques. By analyzing health, lifestyle, and demographic data, models like SVM, Random Forest, and XGBoost were implemented, with SVM achieving the best accuracy of 96.44%. The project includes a user-friendly desktop GUI that allows real-time data input and predictions, making it accessible for healthcare providers and individuals. Future directions include integrating wearable data for dynamic health monitoring and personalized intervention strategies.
 
 ## Flow of the Project
 
@@ -29,6 +29,7 @@ Validated model predictions with unseen data.
 Generated actionable insights for obesity risk reduction.
 
 ## How to Use
+
 #### Data Collection: 
 Gather your dataset and ensure it is cleaned and formatted correctly.
 #### Exploratory Data Analysis:
@@ -37,6 +38,8 @@ Use sypder/ Jupyter notebook to analyze the dataset and identify patterns.
 Follow the notebook instructions to train the machine learning model, fine-tuning parameters as needed.
 #### Evaluation:
 Use the model to predict obesity levels and interpret probabilities for better health insights.
+
+## Screenshots 
 
 ![image](https://github.com/user-attachments/assets/a9022ab5-789a-4c9d-9996-d8a6961b0434)
 
